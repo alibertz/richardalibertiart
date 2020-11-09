@@ -1,0 +1,73 @@
+.footer {
+  background-color: #5c6b73;
+  height: 300px;
+  margin-bottom: 0px;
+  bottom: 0 !important;
+  z-index: 5;
+  position: relative;
+  padding-bottom: 4rem;
+  width: 100%;
+}
+.footer .socialLogos {
+  bottom: -3rem;
+  left: 0;
+  margin: 3rem;
+  position: absolute;
+  display: block;
+  font-family: "Saira Stencil One", cursive;
+}
+.footer .socialLogos .instagramLogo {
+  display: block;
+  color: white;
+}
+.footer .socialLogos .instagramLogo img,
+.footer .socialLogos .instagramLogo h6 {
+  display: inline;
+  font-size: 1.3rem;
+}
+.footer .socialLogos a {
+  color: inherit;
+}
+.footer .socialLogos .fbLogo {
+  display: block;
+  color: white;
+}
+.footer .socialLogos .fbLogo img {
+  margin: 0.8rem;
+  display: inline;
+}
+.footer .socialLogos .fbLogo h6 {
+  display: inline;
+  font-size: 1.3rem;
+}
+.footer .socialLogos .etsyLogo {
+  display: block;
+  color: white;
+}
+.footer .socialLogos .etsyLogo img {
+  width: 120px;
+  height: 70px;
+  display: inline;
+}
+.footer .socialLogos .etsyLogo h6 {
+  font-size: 1.3rem;
+  display: inline;
+}
+.footer h4 {
+  font-family: "Literata", serif;
+  position: absolute;
+  color: white;
+  right: 0;
+  bottom: 0;
+  padding: 3rem;
+  font-size: 3rem;
+}
+.footer img {
+  height: 84px;
+  width: 84px;
+}
+@media (max-width: 900px) {
+  .footer h4 {
+    font-size: 2rem;
+  }
+}

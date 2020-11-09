@@ -1,0 +1,68 @@
+main #grid-header {
+  padding: 7rem 9rem 3rem 8.9rem;
+  font-size: 2.6rem;
+  font-family: "Literata", serif;
+  font-weight: 400;
+  color: #5c6b73;
+}
+main .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+  grid-gap: 1rem;
+  margin-bottom: 3rem;
+}
+@media (max-width: 1167px) {
+  main .grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+}
+@media (max-width: 767px) {
+  main .grid-container {
+    display: grid;
+    grid-template-columns: auto;
+  }
+}
+main .grid-container img {
+  height: 300px;
+  width: 400px;
+  transition: 0.5s ease;
+  opacity: 1;
+  backface-visibility: hidden;
+  border-radius: 1rem !important;
+  border-collapse: separate;
+}
+main .grid-container .info {
+  transition: 0.5 ease;
+  opacity: 0;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  margin: 0 auto;
+  width: 50%;
+  height: 50%;
+  top: 25%;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+}
+main .grid-container .grid-item {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem !important;
+  border-collapse: separate;
+}
+main .grid-container .grid-item:hover .info {
+  opacity: 1;
+  border: 3px solid maroon;
+  border-radius: 1rem !important;
+  border-collapse: separate;
+}
+main .grid-container .grid-item:hover .info h5 {
+  padding-top: 1rem;
+}
+main .grid-container .grid-item:hover img {
+  opacity: 0.2;
+}
