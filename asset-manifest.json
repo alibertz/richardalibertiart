@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/richardalibertiart/static/css/main.6c699b96.chunk.css",
+    "main.css": "/richardalibertiart/static/css/main.3b7ee5b2.chunk.css",
     "main.js": "/richardalibertiart/static/js/main.8d24b135.chunk.js",
     "main.js.map": "/richardalibertiart/static/js/main.8d24b135.chunk.js.map",
     "runtime-main.js": "/richardalibertiart/static/js/runtime-main.cae96f6e.js",
@@ -10,7 +10,7 @@
     "static/js/2.eae2dc79.chunk.js.map": "/richardalibertiart/static/js/2.eae2dc79.chunk.js.map",
     "index.html": "/richardalibertiart/index.html",
     "static/css/2.62cc171c.chunk.css.map": "/richardalibertiart/static/css/2.62cc171c.chunk.css.map",
-    "static/css/main.6c699b96.chunk.css.map": "/richardalibertiart/static/css/main.6c699b96.chunk.css.map",
+    "static/css/main.3b7ee5b2.chunk.css.map": "/richardalibertiart/static/css/main.3b7ee5b2.chunk.css.map",
     "static/js/2.eae2dc79.chunk.js.LICENSE.txt": "/richardalibertiart/static/js/2.eae2dc79.chunk.js.LICENSE.txt",
     "static/media/BronzeNude (2).JPG": "/richardalibertiart/static/media/BronzeNude (2).0575846f.JPG",
     "static/media/DSC_0112.JPG": "/richardalibertiart/static/media/DSC_0112.151c0481.JPG",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.cae96f6e.js",
     "static/css/2.62cc171c.chunk.css",
     "static/js/2.eae2dc79.chunk.js",
-    "static/css/main.6c699b96.chunk.css",
+    "static/css/main.3b7ee5b2.chunk.css",
     "static/js/main.8d24b135.chunk.js"
   ]
 }
