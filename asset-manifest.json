@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/richardalibertiart/static/css/main.d1b937b1.chunk.css",
-    "main.js": "/richardalibertiart/static/js/main.6e0e9018.chunk.js",
-    "main.js.map": "/richardalibertiart/static/js/main.6e0e9018.chunk.js.map",
+    "main.css": "/richardalibertiart/static/css/main.6c699b96.chunk.css",
+    "main.js": "/richardalibertiart/static/js/main.8d24b135.chunk.js",
+    "main.js.map": "/richardalibertiart/static/js/main.8d24b135.chunk.js.map",
     "runtime-main.js": "/richardalibertiart/static/js/runtime-main.cae96f6e.js",
     "runtime-main.js.map": "/richardalibertiart/static/js/runtime-main.cae96f6e.js.map",
-    "static/js/2.812a3b96.chunk.js": "/richardalibertiart/static/js/2.812a3b96.chunk.js",
-    "static/js/2.812a3b96.chunk.js.map": "/richardalibertiart/static/js/2.812a3b96.chunk.js.map",
+    "static/css/2.62cc171c.chunk.css": "/richardalibertiart/static/css/2.62cc171c.chunk.css",
+    "static/js/2.eae2dc79.chunk.js": "/richardalibertiart/static/js/2.eae2dc79.chunk.js",
+    "static/js/2.eae2dc79.chunk.js.map": "/richardalibertiart/static/js/2.eae2dc79.chunk.js.map",
     "index.html": "/richardalibertiart/index.html",
-    "static/css/main.d1b937b1.chunk.css.map": "/richardalibertiart/static/css/main.d1b937b1.chunk.css.map",
-    "static/js/2.812a3b96.chunk.js.LICENSE.txt": "/richardalibertiart/static/js/2.812a3b96.chunk.js.LICENSE.txt",
+    "static/css/2.62cc171c.chunk.css.map": "/richardalibertiart/static/css/2.62cc171c.chunk.css.map",
+    "static/css/main.6c699b96.chunk.css.map": "/richardalibertiart/static/css/main.6c699b96.chunk.css.map",
+    "static/js/2.eae2dc79.chunk.js.LICENSE.txt": "/richardalibertiart/static/js/2.eae2dc79.chunk.js.LICENSE.txt",
     "static/media/BronzeNude (2).JPG": "/richardalibertiart/static/media/BronzeNude (2).0575846f.JPG",
     "static/media/DSC_0112.JPG": "/richardalibertiart/static/media/DSC_0112.151c0481.JPG",
     "static/media/IMG_0538.JPG": "/richardalibertiart/static/media/IMG_0538.3d86b331.JPG",
+    "static/media/bg-img1.jpg": "/richardalibertiart/static/media/bg-img1.be05cb97.jpg",
     "static/media/bg-img2.jpg": "/richardalibertiart/static/media/bg-img2.3637a138.jpg",
     "static/media/bishop3.JPG": "/richardalibertiart/static/media/bishop3.0a7be49d.JPG",
     "static/media/bronzeTotem.JPG": "/richardalibertiart/static/media/bronzeTotem.bdf7ff16.JPG",
@@ -25,8 +28,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.cae96f6e.js",
-    "static/js/2.812a3b96.chunk.js",
-    "static/css/main.d1b937b1.chunk.css",
-    "static/js/main.6e0e9018.chunk.js"
+    "static/css/2.62cc171c.chunk.css",
+    "static/js/2.eae2dc79.chunk.js",
+    "static/css/main.6c699b96.chunk.css",
+    "static/js/main.8d24b135.chunk.js"
   ]
 }
