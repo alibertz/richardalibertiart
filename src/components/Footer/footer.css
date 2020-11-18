@@ -11,10 +11,9 @@
 .footer .socialLogos {
   bottom: -3rem;
   left: 0;
-  margin: 3rem;
-  position: absolute;
   display: block;
   font-family: "Saira Stencil One", cursive;
+  padding: 3rem 0 0 3rem;
 }
 .footer .socialLogos .instagramLogo {
   display: block;
@@ -35,6 +34,8 @@
 .footer .socialLogos .fbLogo img {
   margin: 0.8rem;
   display: inline;
+  height: 60px;
+  width: 60px;
 }
 .footer .socialLogos .fbLogo h6 {
   display: inline;
@@ -66,8 +67,33 @@
   height: 84px;
   width: 84px;
 }
-@media (max-width: 900px) {
+
+@media (max-width: 1167px) {
+  .brand {
+    font-size: 4.3rem;
+  }
   .footer h4 {
     font-size: 2rem;
+  }
+  .footer .socialLogos {
+    padding: 1rem;
+    top: 0;
+  }
+  .footer .socialLogos .etsyLogo img {
+    width: 85px;
+    height: 45px;
+  }
+  .footer .socialLogos img {
+    height: 55px;
+    width: 55px;
+    margin: 0;
+  }
+  .socialLogos .fbLogo img {
+    height: 40px !important;
+    width: 40px !important;
+    margin: 0.4rem !important;
+  }
+  .socialLogos li {
+    padding: 0.5rem 0;
   }
 }

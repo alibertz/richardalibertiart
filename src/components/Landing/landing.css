@@ -1,6 +1,28 @@
+@import "react-slideshow-image/dist/styles.css";
+
+.landing-container header {
+  height: 600px;
+  overflow: hidden;
+  border-bottom: 15px solid maroon;
+}
+
 .landing-container main {
   color: black;
   width: 100%;
   z-index: 2;
   background-color: white;
+}
+
+.landing-container .work-showcase img,
+.landing-container header img {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.landing-container header img {
+  min-height: 590px;
+  min-width: 450px;
 }

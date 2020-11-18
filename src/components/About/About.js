@@ -11,7 +11,7 @@ export default function About() {
       </div>
 
         <h3 id="grid-header"><em>about</em></h3>
-        <div className="container">
+        <div>
             <p>Fine art producer based out of Boston, Massachusetts. Main focus on marble and fine wood sculpting, as well as metal and stone casting with more abstract pieces.</p>
             <img src={require("../../images/IMG_0538.JPG").default} alt="Profile" id="profile" />
         </div>

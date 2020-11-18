@@ -19,7 +19,7 @@ export default function Footer() {
 
           <li className="fbLogo">
             <a href="https://www.facebook.com/richardalibertiart">
-              <img src={fbLogo} alt="Facebook Logo" style={{width:"60px",height:"60px"}} />
+              <img src={fbLogo} alt="Facebook Logo" />
               <h6>Richard Aliberti Fine Art</h6>
             </a>
           </li>

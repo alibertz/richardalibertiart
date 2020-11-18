@@ -1,9 +1,12 @@
+main .work-showcase {
+  padding: 0 4rem;
+}
 main #grid-header {
-  padding: 7rem 9rem 3rem 8.9rem;
   font-size: 2.6rem;
   font-family: "Literata", serif;
   font-weight: 400;
   color: #5c6b73;
+  margin: 5rem 0 3rem 0;
 }
 main .grid-container {
   display: grid;
@@ -25,12 +28,10 @@ main .grid-container {
   }
 }
 main .grid-container img {
-  height: 300px;
-  width: 400px;
   transition: 0.5s ease;
   opacity: 1;
   backface-visibility: hidden;
-  border-radius: 1rem !important;
+  border-radius: 0.45rem !important;
   border-collapse: separate;
 }
 main .grid-container .info {
@@ -51,8 +52,9 @@ main .grid-container .grid-item {
   position: relative;
   width: 100%;
   height: 100%;
-  border-radius: 1rem !important;
+  border-radius: 0.7rem !important;
   border-collapse: separate;
+  cursor: pointer;
 }
 main .grid-container .grid-item:hover .info {
   opacity: 1;
